@@ -1,6 +1,7 @@
 <div>
   <h1>Natália Queiroz Menezes Carreras</h1>
   <h3> 💻 Computer engineering student at Insper</h3>
+  <h3> 💻 Business Analyst Intern at Amazon</h3>
   <div> 📫 How to reach me:
     <b>nataliaqmc@al.insper.edu.br</b>
   </div>
